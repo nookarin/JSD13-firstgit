@@ -1,3 +1,5 @@
+### This project is AI assisted.
+
 # Gen I Fruit Stand 🍎
 
 An interactive fruit & vegetable explorer built with HTML, CSS, and JavaScript.
